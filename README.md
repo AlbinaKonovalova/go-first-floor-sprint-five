@@ -9,7 +9,7 @@
 
 ```bash
 go get github.com/ваше_имя_пользователя/go-first-floor-sprint-five
-
+```
 ## Тестирование
 Для запуска тестов выполните:
 
